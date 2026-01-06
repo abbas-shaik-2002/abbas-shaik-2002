@@ -10,6 +10,8 @@
   <a href="tel:+919989829930"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=abbas-shaik-2002&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
@@ -35,10 +37,14 @@ class MahammadAbbas:
         return "I love turning complex problems into elegant solutions!"
 ```
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - Currently working at **Tata Consultancy Services**
 - Learning **Advanced LLMs, LangChain & Transformer Architectures**
 - Open to collaborate on **AI/ML Projects & Open Source**
 - Ask me about **Python, Machine Learning, NLP, React.js**
+
+<br clear="right"/>
 
 ---
 
@@ -85,43 +91,6 @@ class MahammadAbbas:
 
 ---
 
-## Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### Bank Management System
-*Full Stack + ML Loan Prediction*
-
-- Full-stack banking platform with authentication & dashboards
-- **Transformer-based ML model** for loan approval prediction
-- Tech: `React.js` `Node.js` `Express` `MongoDB`
-- Role-based access control for customers & admins
-
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbas-shaik-2002/bank-management-system)
-
-</td>
-<td width="50%">
-
-### AI Interview Prep Chatbot
-*Web + Gemini API Integration*
-
-- Context-aware chatbot for interview preparation
-- Integrated **Gemini API** with prompt optimization
-- Conversation memory & role-based modes
-- HR, Technical & Behavioral interview simulation
-
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbas-shaik-2002/ai-interview-chatbot)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## Education
 
 <div align="center">
@@ -148,6 +117,16 @@ Hyderabad | June 2022 - August 2022
 
 ---
 
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abbas-shaik-2002&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 <div align="center">
 
 ### Let's Connect
@@ -162,6 +141,8 @@ Hyderabad | June 2022 - August 2022
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
 
 **"Turning Data into Intelligence, One Model at a Time"**
 
